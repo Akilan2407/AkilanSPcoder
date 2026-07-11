@@ -116,8 +116,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akilan2407&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight" />
 </p>
 
 ---
