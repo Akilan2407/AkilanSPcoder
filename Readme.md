@@ -1,129 +1,125 @@
-# **AKILAN-SP**
+<h1 align="center">Hi 👋, I'm Akilan SP</h1>
+<h3 align="center">MSc Software Systems Student | Python Developer | ML Enthusiast</h3>
 
-Software Engineering Student
-
-📧 [akilanpugal007@gmail.com](mailto:akilanpugal007@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/sp-akilan-b59a8131b/
-💻 GitHub: https://github.com/AkilanSPcoder
-
----
-
-## **PROFILE SUMMARY**
-
-Results-driven software engineering student with hands-on experience in full-stack development, machine learning basics, and low-level system programming.
-Strong foundation in data structures, DBMS, and computer architecture with a focus on building scalable and real-world applications.
+<p align="center">
+  <a href="https://github.com/Akilan2407">
+    <img src="https://komarev.com/ghpvc/?username=Akilan2407&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## **TECHNICAL SKILLS**
+## 🚀 About Me
 
-### **Languages & Frameworks (with Logos)**
-
-* **React**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-
-* **Python**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-
-* **Node.js**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
-
-* **Java**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-
-* **C++**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
-
-* **Angular**
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
+- 🎓 MSc Software Systems @ CIT  
+- 🧑‍💼 **Secretary @ FOSS-CIT (Free & Open Source Software Club)**  
+- 💻 Passionate about **Python, Machine Learning, and Web Development**  
+- 🔬 Working on **QA Automation & Computer Vision Systems**  
+- ⚡ Interested in **AI, SaaS, and scalable systems**  
+- 🎯 Targeting top internships (2026 placement season)  
 
 ---
 
-### **Other Skills**
+## 🏆 Leadership & Activities
 
-**Languages:** C, Python, JavaScript, Assembly Language
-**Web Technologies:** HTML, CSS, JavaScript, PHP
-**Database:** MySQL
-**Tools:** Git, GitHub, VS Code
+- 🧑‍💼 **Secretary – FOSS-CIT**
+  - Organized and led technical workshops (e.g., *Hands-on Flask*)  
+  - Coordinated club events and developer communities  
+  - Promoted open-source contribution culture among students  
 
-**Core Concepts:**
-Data Structures & Algorithms, DBMS, Computer Architecture, System Design Basics
-
----
-
-## **PROJECTS**
-
-### 🚗 **Carpooling Web Application**
-
-🔗 https://github.com/AkilanSPcoder/Car-pooling-system--Web-page
-
-* Developed a full-stack single-page application enabling efficient ride sharing with real-time data handling.
-* Implemented frontend-backend integration using JavaScript and PHP, improving user interaction and data management.
+- 🎤 Participated in technical events & hackathons  
+- 🤝 Collaborated with teams on real-world software projects  
 
 ---
 
-### 📐 **OCR-Based Measurement System**
+## 🛠️ Tech Stack
 
-🔗 https://github.com/AkilanSPcoder/LMW_OCR
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,java,cpp,c,js)
 
-* Designed an OCR-based system to extract dimensions from engineering diagrams and validate them against structured datasets.
-* Automated accuracy checking process, reducing manual verification effort and improving efficiency.
+### 🌐 Web Development
+![Web](https://skillicons.dev/icons?i=react,nodejs,angular,html,css,tailwind)
 
----
+### 🗄️ Databases
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
 
-### 📊 **Student Result Analysis System**
+### ⚙️ Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
-🔗 https://github.com/AkilanSPcoder/OCR_PROJECT
-
-* Built a Python-based data analysis tool to generate subject-wise and gender-wise performance reports from Excel datasets.
-* Automated report generation, enabling faster academic insights and decision-making.
-
----
-
-### 🤖 **Machine Learning Mini Projects**
-
-🔗 https://github.com/AkilanSPcoder/psycho--assistant_ML
-
-* Implemented basic machine learning models for prediction and data analysis using Python.
-* Gained hands-on experience in data preprocessing, model training, and evaluation techniques.
+### 🤖 ML / Data Science
+- NumPy, Pandas  
+- Scikit-learn  
+- OpenCV  
+- PIL  
 
 ---
 
-### ⚙️ **Assembly Language (ASM) Projects**
+## 📌 Featured Projects
 
-🔗 https://github.com/AkilanSPcoder/CPU-Simulator---EMU86
-
-* Simulated instruction cycle execution and memory operations to understand low-level system behavior.
-* Strengthened knowledge of register-level programming and computer architecture fundamentals.
-
----
-
-## **EDUCATION**
-
-Master in Software Systems
-Coimbatore Institute of Technology
+### 🔍 QA Automation System (Computer Vision)
+- Camera-based dimensional inspection system  
+- Measures length, diameter, angles using OpenCV  
+- Generates automated inspection reports  
 
 ---
 
-## **STRENGTHS**
-
-* Strong problem-solving and analytical thinking
-* Hands-on development approach
-* Quick learner with focus on core fundamentals
-* Consistent and disciplined
+### 🧠 OCR Web App
+- Extracts text from images using Python backend  
+- React frontend for UI  
 
 ---
 
-## **CURRENT LEARNING**
-
-* Data Structures & Algorithms (Advanced)
-* Backend Development & APIs
-* Machine Learning Fundamentals
-* System Design Basics
+### ⚙️ CPU Scheduling Simulator
+- Built using EMU8086 Assembly  
+- Implements FCFS, SJF, Round Robin, Priority Scheduling  
 
 ---
 
-## **ADDITIONAL INFORMATION**
+### 🌐 Full Stack Projects
+- Placement Portal (MERN)  
+- Car Pooling System  
+- Virtual ATM Simulator (C)  
 
-* Actively building and contributing to GitHub projects
-* Interested in real-world problem solving and scalable systems
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akilan2407&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sp-akilan-b59a8131b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <a href="mailto:akilanpugal007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I build real-world systems combining AI + software engineering.
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
