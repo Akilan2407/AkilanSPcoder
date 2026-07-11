@@ -93,7 +93,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akilan2407&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
 </p>
 
