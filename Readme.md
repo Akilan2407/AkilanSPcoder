@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akilan SP</h1>
 <h3 align="center">MSc Software Systems Student | Python Developer | ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Akilan2407">
-    <img src="https://komarev.com/ghpvc/?username=Akilan2407&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
