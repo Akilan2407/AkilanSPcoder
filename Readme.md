@@ -130,9 +130,17 @@
 
 ---
 
-## ⚡ Fun Fact
-> I build real-world systems combining AI + software engineering.
+---
 
+## 🎯 Career Focus
+
+> Actively preparing for Software & ML internships (2026)
+
+- Interested in **Software Development / ML Engineering roles**
+- Focused on **problem-solving and system design**
+- Building projects that demonstrate **real engineering skills**
+
+---
 ---
 
 ⭐ *“Code. Learn. Build. Repeat.”*
