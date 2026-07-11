@@ -104,15 +104,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📊 Contribution Graph
 
