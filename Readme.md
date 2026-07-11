@@ -45,33 +45,54 @@
 - PIL  
 
 ---
-
+## 📌 Featured Projects
 ## 📌 Featured Projects
 
-### 🤖 Machine Learning & AI Projects 
+---
+
+### 🤖 Machine Learning & AI Projects
+
+#### 📐 OCR-Based Measurement System
+- Extracts dimensions from engineering diagrams using OCR  
+- Validates measurements against structured datasets  
+- Reduces manual inspection effort through automation  
+- Built using Python, OpenCV, and PIL  
 
 #### 📊 Student Result Analysis System
 - Python-based data analysis using Excel datasets  
 - Generates subject-wise & gender-wise insights  
 - Automates report generation for faster decisions  
+- Uses Pandas for efficient data processing  
 
 #### 🧠 Machine Learning Mini Projects
-- Implemented ML models for prediction and analysis  
-- Hands-on with preprocessing, training, and evaluation  
+- Implemented multiple ML models for prediction tasks  
+- Covers preprocessing, training, and evaluation workflows  
 - Built using Scikit-learn  
+- Focus on practical ML fundamentals  
 
 ---
 
 ### 🌐 Full Stack Web Applications
 
+#### 🏥 MediVerify — Medical Claim Blockchain Ledger
+- Full-stack medical claim verification platform  
+- Implements a blockchain-based ledger using SHA-256 hash linking  
+- AI-powered fraud detection with risk scoring and explainable insights  
+- Real-time updates using WebSockets  
+- Role-based dashboards (Patient, Hospital, Insurer, Admin)  
+- Built with FastAPI, React, TypeScript, PostgreSQL  
+- Includes REST APIs, JWT authentication, audit logs, and analytics  
+
 #### 🚗 Carpooling Web Application
 - Full-stack ride-sharing platform  
 - Built using JavaScript & PHP  
-- Handles real-time user interaction and data  
+- Handles user authentication and trip management  
+- Enables real-time interaction between users  
 
 #### 🌍 Placement Portal (MERN)
 - End-to-end placement management system  
 - Includes student and admin dashboards  
+- Features job tracking, notifications, and analytics  
 - Built with MongoDB, Express, React, Node.js  
 
 ---
@@ -82,14 +103,15 @@
 - Developed using EMU8086 Assembly  
 - Implements FCFS, SJF, Round Robin, Priority Scheduling  
 - Simulates real OS-level scheduling behavior  
+- Helps understand low-level process management  
 
 #### 💳 Virtual ATM Simulator
 - Built using C programming  
-- Simulates core banking operations  
+- Simulates core banking operations (withdrawal, balance check, etc.)  
 - Focus on logic building and system design  
+- Console-based interactive system
 
----
-
+  ---
 ## 📊 GitHub Stats
 
 <p align="center">
