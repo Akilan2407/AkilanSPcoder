@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Akilan+SP;Python+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Akilan SP</h1>
 <h3 align="center">MSc Software Systems Student | Python Developer | ML Enthusiast</h3>
-
 ---
 
 ## 🚀 About Me
