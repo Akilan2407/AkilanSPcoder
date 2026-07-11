@@ -2,8 +2,9 @@
 
 Software Engineering Student
 
-📧 akilanpugal007@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/sp-akilan-b59a8131b/
-💻 GitHub: github.com/AkilanSPcoder
+📧 [akilanpugal007@gmail.com](mailto:akilanpugal007@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/sp-akilan-b59a8131b/
+💻 GitHub: https://github.com/AkilanSPcoder
 
 ---
 
@@ -16,11 +17,37 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ## **TECHNICAL SKILLS**
 
+### **Languages & Frameworks (with Logos)**
+
+* **React**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
+
+* **Python**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+
+* **Node.js**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
+
+* **Java**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+
+* **C++**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
+
+* **Angular**
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
+
+---
+
+### **Other Skills**
+
 **Languages:** C, Python, JavaScript, Assembly Language
 **Web Technologies:** HTML, CSS, JavaScript, PHP
 **Database:** MySQL
 **Tools:** Git, GitHub, VS Code
-**Core Concepts:** Data Structures & Algorithms, DBMS, Computer Architecture, System Design Basics
+
+**Core Concepts:**
+Data Structures & Algorithms, DBMS, Computer Architecture, System Design Basics
 
 ---
 
@@ -28,7 +55,7 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ### 🚗 **Carpooling Web Application**
 
-🔗 GitHub: [https://github.com/your-username/carpooling-app](https://github.com/AkilanSPcoder/Car-pooling-system--Web-page)
+🔗 https://github.com/AkilanSPcoder/Car-pooling-system--Web-page
 
 * Developed a full-stack single-page application enabling efficient ride sharing with real-time data handling.
 * Implemented frontend-backend integration using JavaScript and PHP, improving user interaction and data management.
@@ -37,7 +64,7 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ### 📐 **OCR-Based Measurement System**
 
-🔗 GitHub: [https://github.com/your-username/ocr-measurement](https://github.com/AkilanSPcoder/LMW_OCR)
+🔗 https://github.com/AkilanSPcoder/LMW_OCR
 
 * Designed an OCR-based system to extract dimensions from engineering diagrams and validate them against structured datasets.
 * Automated accuracy checking process, reducing manual verification effort and improving efficiency.
@@ -46,7 +73,7 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ### 📊 **Student Result Analysis System**
 
-🔗 GitHub: [https://github.com/your-username/result-analysis](https://github.com/AkilanSPcoder/OCR_PROJECT)
+🔗 https://github.com/AkilanSPcoder/OCR_PROJECT
 
 * Built a Python-based data analysis tool to generate subject-wise and gender-wise performance reports from Excel datasets.
 * Automated report generation, enabling faster academic insights and decision-making.
@@ -55,7 +82,7 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ### 🤖 **Machine Learning Mini Projects**
 
-🔗 GitHub: [https://github.com/your-username/ml-projects](https://github.com/AkilanSPcoder/psycho--assistant_ML)
+🔗 https://github.com/AkilanSPcoder/psycho--assistant_ML
 
 * Implemented basic machine learning models for prediction and data analysis using Python.
 * Gained hands-on experience in data preprocessing, model training, and evaluation techniques.
@@ -64,7 +91,7 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ### ⚙️ **Assembly Language (ASM) Projects**
 
-🔗 GitHub: [https://github.com/your-username/asm-projects](https://github.com/AkilanSPcoder/CPU-Simulator---EMU86)
+🔗 https://github.com/AkilanSPcoder/CPU-Simulator---EMU86
 
 * Simulated instruction cycle execution and memory operations to understand low-level system behavior.
 * Strengthened knowledge of register-level programming and computer architecture fundamentals.
@@ -73,7 +100,8 @@ Strong foundation in data structures, DBMS, and computer architecture with a foc
 
 ## **EDUCATION**
 
-Master in Software Systems at Coimbatore Institute of technology
+Master in Software Systems
+Coimbatore Institute of Technology
 
 ---
 
