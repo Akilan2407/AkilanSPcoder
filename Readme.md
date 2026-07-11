@@ -50,8 +50,6 @@
 
 ## 📌 Featured Projects
 
----
-
 ### 🤖 Machine Learning & AI Projects
 
 #### 📐 OCR-Based Measurement System
@@ -96,16 +94,33 @@
 - Built using C programming  
 - Simulates core banking operations  
 - Focus on logic building and system design  
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akilan2407&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akilan2407&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
 </p>
 
+---
 
+## 📈 Top Languages
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akilan2407&theme=tokyo-night" />
+</p>
+
+---
 
 ## 🔗 Connect With Me
 
