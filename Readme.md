@@ -111,15 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
 </p>
 
----
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilan2407&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
