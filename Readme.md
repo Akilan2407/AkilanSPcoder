@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akilan SP</h1>
 <h3 align="center">MSc Software Systems Student | Python Developer | ML Enthusiast</h3>
----
 
 ## 🚀 About Me
 
