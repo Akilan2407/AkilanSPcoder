@@ -56,30 +56,52 @@
 
 ## 📌 Featured Projects
 
-### 🔍 QA Automation System (Computer Vision)
-- Camera-based dimensional inspection system  
-- Measures length, diameter, angles using OpenCV  
-- Generates automated inspection reports  
+---
+
+### 🤖 Machine Learning & AI Projects
+
+#### 📐 OCR-Based Measurement System
+- Extracts dimensions from engineering diagrams using OCR  
+- Validates measurements against structured datasets  
+- Reduces manual inspection effort through automation  
+
+#### 📊 Student Result Analysis System
+- Python-based data analysis using Excel datasets  
+- Generates subject-wise & gender-wise insights  
+- Automates report generation for faster decisions  
+
+#### 🧠 Machine Learning Mini Projects
+- Implemented ML models for prediction and analysis  
+- Hands-on with preprocessing, training, and evaluation  
+- Built using Scikit-learn  
 
 ---
 
-### 🧠 OCR Web App
-- Extracts text from images using Python backend  
-- React frontend for UI  
+### 🌐 Full Stack Web Applications
+
+#### 🚗 Carpooling Web Application
+- Full-stack ride-sharing platform  
+- Built using JavaScript & PHP  
+- Handles real-time user interaction and data  
+
+#### 🌍 Placement Portal (MERN)
+- End-to-end placement management system  
+- Includes student and admin dashboards  
+- Built with MongoDB, Express, React, Node.js  
 
 ---
 
-### ⚙️ CPU Scheduling Simulator
-- Built using EMU8086 Assembly  
+### ⚙️ Development & System-Level Projects
+
+#### ⚙️ CPU Scheduling Simulator
+- Developed using EMU8086 Assembly  
 - Implements FCFS, SJF, Round Robin, Priority Scheduling  
+- Simulates real OS-level scheduling behavior  
 
----
-
-### 🌐 Full Stack Projects
-- Placement Portal (MERN)  
-- Car Pooling System  
-- Virtual ATM Simulator (C)  
-
+#### 💳 Virtual ATM Simulator
+- Built using C programming  
+- Simulates core banking operations  
+- Focus on logic building and system design  
 ---
 
 ## 📊 GitHub Stats
