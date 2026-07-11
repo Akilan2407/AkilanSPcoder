@@ -48,12 +48,7 @@
 
 ## 📌 Featured Projects
 
-### 🤖 Machine Learning & AI Projects
-
-#### 📐 OCR-Based Measurement System
-- Extracts dimensions from engineering diagrams using OCR  
-- Validates measurements against structured datasets  
-- Reduces manual inspection effort through automation  
+### 🤖 Machine Learning & AI Projects 
 
 #### 📊 Student Result Analysis System
 - Python-based data analysis using Excel datasets  
